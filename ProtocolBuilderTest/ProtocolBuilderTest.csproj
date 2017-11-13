@@ -64,7 +64,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TcpProtocolBuilder\ProtocolBuilder.csproj">
+    <ProjectReference Include="..\ProtocolBuilder\ProtocolBuilder.csproj">
       <Project>{25f966b0-f1a3-4e3b-843b-e2818e23c69f}</Project>
       <Name>ProtocolBuilder</Name>
     </ProjectReference>

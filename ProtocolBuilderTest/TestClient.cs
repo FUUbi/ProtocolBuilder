@@ -21,6 +21,7 @@ namespace ProtocolBuilderTest
             OutStream = _c.GetStream();
 
         }
+
         public void Close()
         {
             _c.Close();
